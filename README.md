@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eliseu Medeiros</h1>
-<h3 align="center">A passionate backend developer from Brazil. I have a communicative profile, patient, I can deal with adverse situations and I love learning new things. Academic experiences in Teaching Assistant in a data structure discipline, scientific initiation that culminated in the development of a genomic data analysis system and master's degree in bioinformatics. Professional experiences focused, until now, on Software Quality following BDD standards and robot software automation. I am currently looking for reallocation to develop systems with a focus on Back-End and data analysis.</h3>
+<h3 align="center">A passionate backend developer from Brazil. I have a communicative profile, patient, I can deal with adverse situations and I love learning new things. </h3>
+  
+ <h5>📚 Academic experiences in Teaching Assistant in a data structure discipline, scientific initiation that culminated in the development of a genomic data analysis system and master's degree in bioinformatics.</h5> 
+ <h5>💼 Professional experiences focused, until now, on Software Quality following BDD standards and robot software automation. </h5>
+ <h5>🔎Now I'm looking for reallocation to develop systems with a focus on Back-End and data analysis.</h5>
 
 - 🌱 I’m currently Increasing skills in **Javascript and C#**
 
@@ -7,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/eliseumedeir0s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/eliseumedeir0s" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eliseu-medeiros-ti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eliseu-medeiros-ti/" height="30" width="40" /></a>
+<a href="https://twitter.com/eliseumedeir0s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/eliseumedeir0s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eliseu-medeiros-ti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eliseu-medeiros-ti/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
