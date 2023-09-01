@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eliseu Medeiros</h1>
-<h3 align="center">A passionate backend developer from Brazil. I have a communicative profile, patient, I can deal with adverse situations and I love learning new things. </h3>
+<h1 align="left">Hi 👋, I'm Eliseu Medeiros</h1>
+<h3 align="left">A passionate backend developer from Brazil. I have a communicative profile, patient, I can deal with adverse situations and I love learning new things. </h3>
   
  <h5>📚 Academic experiences in Teaching Assistant in a data structure discipline, scientific initiation that culminated in the development of a genomic data analysis system and master's degree in bioinformatics.</h5> 
  <h5>💼 Professional experiences focused, until now, on Software Quality following BDD standards and robot software automation. </h5>
