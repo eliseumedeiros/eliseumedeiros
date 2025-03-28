@@ -1,10 +1,10 @@
 <h1 align="left">Hello, World! 👋, I'm Eliseu Medeiros</h1>
-<h3 align="left">A passionate backend developer from Brazil. I have a communicative profile, patient, I can deal with adverse situations and I love learning new things. </h3>
+<h3 align="left">A passionate backend developer from Brazil.</h3>
   
- <h5>📚 Academic experiences in Teaching Assistant in a data structure discipline, scientific initiation that culminated in the development of a genomic data analysis system and master's degree in bioinformatics.</h5> 
- <h5>💼 Professional experiences in Quality Assurance following BDD standards and robot software automation, and Back-end development in .Net C#. </h5>
+ <h5>📚 Passionate and detail-oriented IT professional with a Master’s in Bioinformatics and a Bachelor’s in Information Technology from UFRN.</h5> 
+ <h5>💼 With 1+ years as a .NET Backend Developer and 2.5 years in Software Testing & QA. I specialize in C#, .NET Core, AngularJS, and PostgreSQL.</h5>
 
-- 🌱 I’m currently Increasing skills in **Javascript and C#**
+- 🌱 I’m currently Increasing skills in **Angular, Javascript, and C#**
 
 - 📫 How to reach me **eliseujayro@gmail.com**
 
