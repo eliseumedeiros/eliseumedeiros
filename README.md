@@ -1,7 +1,7 @@
 <h1 align="left">Hello, World! 👋, I'm Eliseu Medeiros</h1>
-<h3 align="left">A passionate backend developer from Brazil.</h3>
+<h3 align="left">Passionate and detail-oriented IT professional from Brazil.</h3>
   
- <h5>📚 Passionate and detail-oriented IT professional with a Master’s in Bioinformatics and a Bachelor’s in Information Technology from UFRN.</h5> 
+ <h5>📚 With a Master’s in Bioinformatics and a Bachelor’s in Information Technology from UFRN.</h5> 
  <h5>💼 With 1+ years as a .NET Backend Developer and 2.5 years in Software Testing & QA. I specialize in C#, .NET Core, AngularJS, and PostgreSQL.</h5>
 
 - 🌱 I’m currently Increasing skills in **Angular, Javascript, and C#**
